@@ -1,0 +1,8 @@
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+
+these sprites will be used stones in the tutorial level.
+
+Dimensions on GMS can vary.
+
+origin middleCenter.
